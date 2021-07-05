@@ -13,13 +13,13 @@ PyTorch 1.4.0 with scipy, numpy, etc.
 
 RTX 2080 (8G)
 
-## For training, you need download these two datasets:
+## Training datasets:
 Blobby shape dataset (4.7 GB), and Sculpture shape dataset (19 GB), via: 
 
 ```shell
 sh scripts/download_synthetic_datasets.sh
 ```
-## For testing, you can download these datsets:
+## Testing datsets:
 
 DiLiGenT main dataset (default) (850MB), via:
 ```shell
