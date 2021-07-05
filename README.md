@@ -33,8 +33,8 @@ https://vgl.ict.usc.edu/Data/LightStage/
 
 ## Data processing to get the Lambertian Priors:
 
-Use the Least Square Baseline method [Woodham1980]
-
+Use the Least Square Baseline method [Woodham1980].
+Please see in /GettingPriors.
 
 ## Training on your device:
 ```shell
