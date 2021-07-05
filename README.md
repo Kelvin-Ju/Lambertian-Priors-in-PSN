@@ -31,6 +31,11 @@ Light Stage Data Gallery, via:
 
 https://vgl.ict.usc.edu/Data/LightStage/
 
+## Data processing to get the Lambertian Priors:
+
+Use the Least Square Baseline method [Woodham1980]
+
+
 ## Training on your device:
 ```shell
 python main.py --concat_data --in_img_num 32
