@@ -38,3 +38,8 @@ python main.py --concat_data --in_img_num 32
 Defualt: training with 32 input images.
 
 
+
+
+## Acknowledgement:
+
+Our code is partially based on: https://github.com/guanyingc/PS-FCN.
