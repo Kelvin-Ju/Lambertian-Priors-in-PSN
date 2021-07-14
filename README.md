@@ -36,6 +36,12 @@ https://vgl.ict.usc.edu/Data/LightStage/
 Use the Least Square Baseline method [Woodham1980].
 Please see in /GettingPriors.
 
+## Testing on your device:
+```shell
+python eval/run_model.py --retrain data/models/PriorsPSN-test.pth.tar --in_img_num X
+```
+You can change X to adjust the number of the input image.
+
 ## Training on your device:
 ```shell
 python main.py --concat_data --in_img_num 32
