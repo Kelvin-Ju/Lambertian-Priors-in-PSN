@@ -36,6 +36,8 @@ https://vgl.ict.usc.edu/Data/LightStage/
 Use the Least Square Baseline method [Woodham1980].
 Please see in /GettingPriors.
 
+Use your own path on the training datsets and test datasets.
+
 ## Testing on your device:
 ```shell
 python eval/run_model.py --retrain data/models/PriorsPSN-test.pth.tar --in_img_num X
